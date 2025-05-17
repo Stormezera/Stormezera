@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriel, mais conhecido como Storm, sou Dev FullStaff a 2 anos.
+## Olá! Me chamo Gabriel, mais conhecido como Storm, sou Dev FullStaff a 3 anos.
 Atualmente cursando Analise e Desenvolvimento de Sistemas - 3° Semestre
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@storm1202)
