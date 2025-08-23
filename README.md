@@ -1,4 +1,4 @@
-## Olá! Me chamo Gabriel, mais conhecido como Storm, sou Dev FullStaff a 3 anos.
+## Olá! Me chamo Gabriel, mais conhecido como Storm, sou Dev Front-End atualmente.
 Atualmente cursando Analise e Desenvolvimento de Sistemas - 3° Semestre
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@storm1202)
@@ -14,5 +14,3 @@ Atualmente cursando Analise e Desenvolvimento de Sistemas - 3° Semestre
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=whit" />
 </div><br/>
-
-Trabalho atualmente com .lua, programando Scripts para o FiveM.
