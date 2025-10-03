@@ -5,7 +5,7 @@ Atualmente cursando Analise e Desenvolvimento de Sistemas - 3° Semestre
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/vGEBB4Ee9d)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/volpini015) -->
 
-## Linguagens que uso
+## Frameworks
 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
