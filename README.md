@@ -1,3 +1,9 @@
+###
+
+<h2 align="center">Olá, Eu sou o Storm👋</h2>
+
+###
+
 <div align="center">
   <a href="https://discord.com/invite/vGEBB4Ee9d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -6,12 +12,6 @@
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="center">Olá, Eu sou o Storm👋</h2>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
