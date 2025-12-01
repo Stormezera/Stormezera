@@ -50,11 +50,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
