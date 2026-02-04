@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Olá, Eu sou o Storm👋</h2>
+<h2 align="center">Hey, I’m Storm.👋</h2>
 
 ###
 
